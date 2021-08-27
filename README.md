@@ -18,6 +18,8 @@ The application is used to demonstrate the usage of localStorage and event liste
 
 <h3> Website Display </h3>
 
+<a href='https://yuhsuanemilychen.github.io/to-do-list/'> GitHub Page </a>
+
 
 
 
